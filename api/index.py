@@ -15,13 +15,9 @@ strdate = str(today) #Converts input from amount to string to print it below.
 def producthunt():
   return redirect(url_for("home.html"))
 
-@app.route('/')
-def index():
-   return flask.render_template("home.html")
-
 @app.route("/instructions")
 def instructions():
-  return flask.render_template("instructions.html")
+  return render_template("instructions.html")
 
 
 
