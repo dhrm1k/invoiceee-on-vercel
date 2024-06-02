@@ -1,0 +1,59 @@
+.hello {
+    font-family: Rum Raisin, sans-serif;
+    font-size: 65px;
+    
+    
+  }
+  
+  .tex {
+    text-align: center;
+    padding-top: 37px;
+  }
+  
+  .tex2 {
+    text-align: center;
+    padding-top: 44px;
+  }
+  
+  .button {
+    font-family: Schoolbell, sans-serif;
+    background-color: #E19292;
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    border-radius: 23px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .trynow {
+    font-size: 30px;
+  }
+  
+  .how-to {
+    font-size: 25px;
+    font-family: Schoolbell, sans-serif;
+    text-align: right;
+    padding-right: 20px;
+    text-decoration: none;
+    text-decoration-color: transparent;
+  }
+  
+  .producthunt {
+    text-align: center;
+    font-family: monospace;
+    position: relative;
+    top: 132px;
+  }
+  
+  .github {
+    text-align: center;
+    font-family: monospace;
+    position: relative;
+    top: 150px;
+    text-decoration: none;
+  }

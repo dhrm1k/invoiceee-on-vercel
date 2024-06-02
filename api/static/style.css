@@ -1,0 +1,31 @@
+*{
+
+}
+
+.black-highlight {
+    background: #000000; /* Default color, all browsers */
+    border-radius: 33px;
+    color: white;
+  
+}
+
+.makeitneg {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; 
+}
+
+.text1 {
+  text-decoration: none;
+}
+
+.producthunt {
+  text-align: center;
+  font-family: monospace;
+  position: relative;
+  top: 240px;
+
+}
